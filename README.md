@@ -25,4 +25,4 @@ Siga os passos abaixo para rodar o projeto localmente na sua máquina:
 Projeto desenvolvido com foco em automação e integração de APIs. Se você gostou do projeto ou quer trocar uma ideia sobre Python, me chame nas redes:
 
 - **GitHub:** [DeregL2](https://github.com/DeregL2)
-- **LinkedIn:** [Seu Nome Aqui](https://www.linkedin.com/in/derick-maschio/)
+- **LinkedIn:** [Derick](https://www.linkedin.com/in/derick-maschio/)
